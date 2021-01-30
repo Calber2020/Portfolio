@@ -1,0 +1,19 @@
+:root {
+    --main-white: #f0f0f0;
+    --main-blue: #1A223D;
+    --main-gray: #303841;
+  }
+
+  body {
+    background-color: var(--main-blue);
+  }
+
+  html {
+    box-sizing: border-box;
+    /* Set font size for easy rem calculations
+     * default document font size = 16px, 1rem = 16px, 100% = 16px
+     * (100% / 16px) * 10 = 62.5%, 1rem = 10px, 62.5% = 10px
+    */
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+  }
