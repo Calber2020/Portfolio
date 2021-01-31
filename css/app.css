@@ -1,5 +1,5 @@
 body {
-  background-color: #f5d9df;
+  background-color: #1B1726;
   font-family: "Nunito", sans-serif;
 }
 
@@ -62,13 +62,13 @@ body {
 }
 
 .bg-video {
-  position: absolute;
+  position: inline;
   top: 0;
   left: 0;
-  height: 30%;
+  height: 40%;
   width: 100%;
   z-index: 10;
-  opacity: .45;
+  opacity: .55;
   overflow: hidden;
 }
 
