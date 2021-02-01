@@ -4,13 +4,13 @@ body {
 }
 
 .blurb h2 {
-  color: #EA1C2C;
+  color: #1B1726;
   font-weight: 100;
   font-size: 2.5rem;
 }
 
 .blurb p {
-  color: #f498b8;
+  color: #818C8A;
   font-weight: 100;
   font-size: 1.125;
   line-height: 2;
@@ -31,16 +31,16 @@ body {
 }
 
 #mainNavbar .nav-link:hover {
-  color: #EA1C2C;
+  color: #818C8A;
 }
 
 #mainNavbar .navbar-brand {
-  color: #EA1C2C;
+  color: #818C8A;
   font-size: 1.5rem;
 }
 
 #headingGroup span {
-  color: #EA1C2C;
+  color: #818C8A;
 }
 
 #headingGroup h1 {
@@ -59,22 +59,4 @@ body {
     font-weight: 100;
     font-size: 3rem;
   }
-}
-
-.bg-video {
-  position: inline;
-  top: 0;
-  left: 0;
-  height: 40%;
-  width: 100%;
-  z-index: 10;
-  opacity: .55;
-  overflow: hidden;
-}
-
-.bg-video__content {
-  height: 100%;
-  width: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
 }

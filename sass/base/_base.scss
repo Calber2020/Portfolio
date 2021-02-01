@@ -4,13 +4,13 @@ body {
 }
 
 .blurb h2 {
-  color: $prime;
+  color: $color-prime;
   font-weight: 100;
   font-size: 2.5rem;
 }
 
 .blurb p {
-  color: #f498b8;
+  color: $color-lgrey;
   font-weight: 100;
   font-size: 1.125;
   line-height: 2;
@@ -31,18 +31,18 @@ body {
 }
 
 #mainNavbar .nav-link:hover {
-  color: #EA1C2C;
+  color: $color-lgrey;
 }
 
 
 #mainNavbar .navbar-brand {
-  color: #EA1C2C;
+  color: $color-lgrey;
   font-size: 1.5rem;
 }
 
 
 #headingGroup span {
-  color: #EA1C2C;
+  color: $color-lgrey;
 }
 
 #headingGroup h1 {
