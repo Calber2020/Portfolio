@@ -24,6 +24,7 @@ body {
 #mainNavbar {
   font-size: 1.5rem;
   font-weight: 100;
+  color: #F2F0D8;
 }
 
 #mainNavbar .nav-link {
@@ -59,4 +60,8 @@ body {
     font-weight: 100;
     font-size: 3rem;
   }
+}
+
+#navLinks {
+  color: #F2F0D8;
 }
